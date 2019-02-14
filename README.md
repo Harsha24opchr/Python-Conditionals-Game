@@ -8,4 +8,4 @@
 5. If you're a beginner try to modify the game.
 
 #### Made with :octocat::heart: for all Python's Amateur Developers.
-<small> Oliver ALR 2018 No License <small>
+<small> Oliver ALR 2018 No License :godmode:<small>
