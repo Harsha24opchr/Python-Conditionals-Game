@@ -42,7 +42,7 @@ class grantsStation:
         b_0 = input("> ")
         if "tren" in b_0:
             return train.enter(self)
-    elif "cuarto" in b_0:
+        elif "cuarto" in b_0:
             return room_2.enter(self)
         else:
             return death.death_1(self)
